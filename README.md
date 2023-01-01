@@ -26,7 +26,7 @@ Enter message to encode: Hello World
 ### <span style="text-decoration: underline">From Morse Code</span>
 &nbsp;
 
-Selec decode, separate each charater with space, separate words with double space.
+Select decode, separate each charater with space, separate words with double space.
 
 
 ---
